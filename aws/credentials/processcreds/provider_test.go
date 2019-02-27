@@ -11,11 +11,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/credentials/processcreds"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/awstesting"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/awserr"
+	"github.com/Beeketing/aws-sdk-go/aws/credentials/processcreds"
+	"github.com/Beeketing/aws-sdk-go/aws/session"
+	"github.com/Beeketing/aws-sdk-go/awstesting"
 )
 
 func TestProcessProviderFromSessionCfg(t *testing.T) {
