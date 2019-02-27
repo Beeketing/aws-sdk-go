@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting/integration"
-	"github.com/aws/aws-sdk-go/service/cloudtrail"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/awstesting/integration"
+	github.com/Beeketing/aws-sdk-go/service/cloudtrail"
 )
 
 var _ aws.Config

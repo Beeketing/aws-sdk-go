@@ -9,9 +9,9 @@
 package quicksightiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/quicksight"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/service/quicksight"
 )
 
 // QuickSightAPI provides an interface to enable mocking the

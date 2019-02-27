@@ -7,10 +7,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream"
-	"github.com/aws/aws-sdk-go/private/protocol/restjson"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/private/protocol"
+	github.com/Beeketing/aws-sdk-go/private/protocol/eventstream"
+	github.com/Beeketing/aws-sdk-go/private/protocol/restjson"
 )
 
 var eventMessageTypeHeader = eventstream.Header{

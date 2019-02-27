@@ -14,14 +14,14 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting"
-	"github.com/aws/aws-sdk-go/awstesting/unit"
-	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/aws/aws-sdk-go/service/s3/s3manager"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/awsutil"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/awstesting"
+	github.com/Beeketing/aws-sdk-go/awstesting/unit"
+	github.com/Beeketing/aws-sdk-go/service/s3"
+	github.com/Beeketing/aws-sdk-go/service/s3/s3manager"
 )
 
 var emptyList = []string{}

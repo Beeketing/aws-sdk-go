@@ -10,10 +10,10 @@ import (
 	"io"
 	"strings"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/private/protocol/rest"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/private/protocol/jsonrpc"
+	github.com/Beeketing/aws-sdk-go/private/protocol/rest"
 )
 
 // BuildHandler is a named request handler for building restjson protocol requests

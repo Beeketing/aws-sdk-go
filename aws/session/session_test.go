@@ -10,13 +10,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/defaults"
-	"github.com/aws/aws-sdk-go/aws/endpoints"
-	"github.com/aws/aws-sdk-go/awstesting"
-	"github.com/aws/aws-sdk-go/internal/shareddefaults"
-	"github.com/aws/aws-sdk-go/service/s3"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/credentials"
+	github.com/Beeketing/aws-sdk-go/aws/defaults"
+	github.com/Beeketing/aws-sdk-go/aws/endpoints"
+	github.com/Beeketing/aws-sdk-go/awstesting"
+	github.com/Beeketing/aws-sdk-go/internal/shareddefaults"
+	github.com/Beeketing/aws-sdk-go/service/s3"
 )
 
 func TestNewDefaultSession(t *testing.T) {

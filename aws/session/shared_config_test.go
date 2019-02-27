@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/internal/ini"
+	github.com/Beeketing/aws-sdk-go/aws/credentials"
+	github.com/Beeketing/aws-sdk-go/internal/ini"
 )
 
 var (

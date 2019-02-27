@@ -8,12 +8,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/awstesting/unit"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream/eventstreamapi"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/session"
+	github.com/Beeketing/aws-sdk-go/awstesting/unit"
+	github.com/Beeketing/aws-sdk-go/private/protocol"
+	github.com/Beeketing/aws-sdk-go/private/protocol/eventstream"
+	github.com/Beeketing/aws-sdk-go/private/protocol/eventstream/eventstreamapi"
 )
 
 // ServeEventStream provides serving EventStream messages from a HTTP server to

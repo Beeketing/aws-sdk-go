@@ -3,12 +3,12 @@
 package resourcegroupstaggingapi
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/client"
-	"github.com/aws/aws-sdk-go/aws/client/metadata"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/signer/v4"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/client"
+	github.com/Beeketing/aws-sdk-go/aws/client/metadata"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/aws/signer/v4"
+	github.com/Beeketing/aws-sdk-go/private/protocol/jsonrpc"
 )
 
 // ResourceGroupsTaggingAPI provides the API operation methods for making requests to

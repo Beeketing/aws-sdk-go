@@ -3,10 +3,10 @@ package session
 import (
 	"fmt"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/credentials"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/credentials"
 
-	"github.com/aws/aws-sdk-go/internal/ini"
+	github.com/Beeketing/aws-sdk-go/internal/ini"
 )
 
 const (

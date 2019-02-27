@@ -15,16 +15,16 @@ import (
 	"os"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/corehandlers"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds"
-	"github.com/aws/aws-sdk-go/aws/credentials/endpointcreds"
-	"github.com/aws/aws-sdk-go/aws/ec2metadata"
-	"github.com/aws/aws-sdk-go/aws/endpoints"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/internal/shareddefaults"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/corehandlers"
+	github.com/Beeketing/aws-sdk-go/aws/credentials"
+	github.com/Beeketing/aws-sdk-go/aws/credentials/ec2rolecreds"
+	github.com/Beeketing/aws-sdk-go/aws/credentials/endpointcreds"
+	github.com/Beeketing/aws-sdk-go/aws/ec2metadata"
+	github.com/Beeketing/aws-sdk-go/aws/endpoints"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/internal/shareddefaults"
 )
 
 // A Defaults provides a collection of default values for SDK clients.

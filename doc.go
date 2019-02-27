@@ -332,11 +332,11 @@
 //   	"os"
 //   	"time"
 //
-//   	"github.com/aws/aws-sdk-go/aws"
-//   	"github.com/aws/aws-sdk-go/aws/awserr"
-//   	"github.com/aws/aws-sdk-go/aws/request"
-//   	"github.com/aws/aws-sdk-go/aws/session"
-//   	"github.com/aws/aws-sdk-go/service/s3"
+//   	github.com/Beeketing/aws-sdk-go/aws"
+//   	github.com/Beeketing/aws-sdk-go/aws/awserr"
+//   	github.com/Beeketing/aws-sdk-go/aws/request"
+//   	github.com/Beeketing/aws-sdk-go/aws/session"
+//   	github.com/Beeketing/aws-sdk-go/service/s3"
 //   )
 //
 //   // Uploads a file to S3 given a bucket and object key. Also takes a duration

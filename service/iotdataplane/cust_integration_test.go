@@ -5,11 +5,11 @@ package iotdataplane_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/awstesting/integration"
-	"github.com/aws/aws-sdk-go/service/iot"
-	"github.com/aws/aws-sdk-go/service/iotdataplane"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/awstesting/integration"
+	github.com/Beeketing/aws-sdk-go/service/iot"
+	github.com/Beeketing/aws-sdk-go/service/iotdataplane"
 )
 
 func TestInteg_DescribeEndpoint(t *testing.T) {

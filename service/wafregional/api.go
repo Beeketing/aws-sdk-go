@@ -3,12 +3,12 @@
 package wafregional
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/service/waf"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awsutil"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/private/protocol"
+	github.com/Beeketing/aws-sdk-go/private/protocol/jsonrpc"
+	github.com/Beeketing/aws-sdk-go/service/waf"
 )
 
 const opAssociateWebACL = "AssociateWebACL"

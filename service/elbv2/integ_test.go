@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting/integration"
-	"github.com/aws/aws-sdk-go/service/elbv2"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/awstesting/integration"
+	github.com/Beeketing/aws-sdk-go/service/elbv2"
 )
 
 var _ aws.Config

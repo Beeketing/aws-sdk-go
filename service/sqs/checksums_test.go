@@ -7,11 +7,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting/unit"
-	"github.com/aws/aws-sdk-go/service/sqs"
+	github.com/Beeketing/aws-sdk-go/aws"
+	github.com/Beeketing/aws-sdk-go/aws/awserr"
+	github.com/Beeketing/aws-sdk-go/aws/request"
+	github.com/Beeketing/aws-sdk-go/awstesting/unit"
+	github.com/Beeketing/aws-sdk-go/service/sqs"
 )
 
 var svc = func() *sqs.SQS {
