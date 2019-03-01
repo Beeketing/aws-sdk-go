@@ -12,16 +12,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/corehandlers"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting/unit"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream/eventstreamapi"
-	"github.com/aws/aws-sdk-go/private/protocol/eventstream/eventstreamtest"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/awserr"
+	"github.com/Beeketing/aws-sdk-go/aws/corehandlers"
+	"github.com/Beeketing/aws-sdk-go/aws/request"
+	"github.com/Beeketing/aws-sdk-go/awstesting/unit"
+	"github.com/Beeketing/aws-sdk-go/private/protocol"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/eventstream"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/eventstream/eventstreamapi"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/eventstream/eventstreamtest"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/jsonrpc"
 )
 
 var _ time.Time

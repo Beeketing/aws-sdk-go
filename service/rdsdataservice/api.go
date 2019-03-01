@@ -3,9 +3,9 @@
 package rdsdataservice
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/awsutil"
+	"github.com/Beeketing/aws-sdk-go/aws/request"
 )
 
 const opExecuteSql = "ExecuteSql"

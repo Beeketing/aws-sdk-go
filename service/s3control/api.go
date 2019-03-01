@@ -3,11 +3,11 @@
 package s3control
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/restxml"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/awsutil"
+	"github.com/Beeketing/aws-sdk-go/aws/request"
+	"github.com/Beeketing/aws-sdk-go/private/protocol"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/restxml"
 )
 
 const opDeletePublicAccessBlock = "DeletePublicAccessBlock"

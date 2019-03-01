@@ -13,11 +13,11 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/go-sql-driver/mysql"
+	"github.com/Beeketing/mysql"
 
-	"github.com/aws/aws-sdk-go/aws/credentials/stscreds"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/rds/rdsutils"
+	"github.com/Beeketing/aws-sdk-go/aws/credentials/stscreds"
+	"github.com/Beeketing/aws-sdk-go/aws/session"
+	"github.com/Beeketing/aws-sdk-go/service/rds/rdsutils"
 )
 
 // ExampleConnectionStringBuilder contains usage of assuming a role and using
