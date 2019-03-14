@@ -7,12 +7,12 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/crr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/awsutil"
+	"github.com/Beeketing/aws-sdk-go/aws/crr"
+	"github.com/Beeketing/aws-sdk-go/aws/request"
+	"github.com/Beeketing/aws-sdk-go/private/protocol"
+	"github.com/Beeketing/aws-sdk-go/private/protocol/jsonrpc"
 )
 
 const opBatchGetItem = "BatchGetItem"

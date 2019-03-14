@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/pkg/errors"
+	"github.com/Beeketing/errors"
 )
 
 // Example plugin that will retrieve credentials from a JSON file that the

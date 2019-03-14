@@ -8,12 +8,12 @@ import (
 	"log"
 	"os"
 
-	"github.com/go-sql-driver/mysql"
+	"github.com/Beeketing/mysql"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials/stscreds"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/rds/rdsutils"
+	"github.com/Beeketing/aws-sdk-go/aws"
+	"github.com/Beeketing/aws-sdk-go/aws/credentials/stscreds"
+	"github.com/Beeketing/aws-sdk-go/aws/session"
+	"github.com/Beeketing/aws-sdk-go/service/rds/rdsutils"
 )
 
 // Usage ./iam_authentication <region> <db user> <db name> <endpoint to database> <iam arn>
